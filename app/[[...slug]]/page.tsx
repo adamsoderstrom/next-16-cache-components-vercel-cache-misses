@@ -1,10 +1,10 @@
 export function generateStaticParams() {
   return [
     {
-      segments: ['foo']
+      slug: ['foo']
     },
     {
-      segments: ['bar']
+      slug: ['bar']
     },
   ]
 }
